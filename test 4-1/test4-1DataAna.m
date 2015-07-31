@@ -1,4 +1,5 @@
 %%file path for data reading
+%.csv or .xls files should have one continuous block of data
 omegaFile = 'test4-1_elogger.csv';
 %forceFile = 'test4-1_lc.csv';
 
